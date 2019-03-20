@@ -10,8 +10,8 @@ Program doesn't recognize any other symbols except alphabetical (instead it type
 
 # You are able to create your own symbols table. 
 1) You must to define length of your simbols in txt file (dont forget to include right-side whitespaces) 
-  a) First number - length; then new line;
-  b) Second number - hight; then new line;
+  * First number - length; then new line;
+  * Second number - hight; then new line;
   > Example of .txt file 
   ```
   4 
