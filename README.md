@@ -12,8 +12,8 @@ Program doesn't recognize any other symbols except alphabetical (instead it tipe
 1) You must to define length of your simbols in txt file (dont forget to include right-side whitespaces) 
   a) First number - length; then new line;
   b) Second number - hight; then new line;
-  ```Example of .txt file:```\n
-  ```4```\n
-  ```5```
-  ```...your simbols...```\n
+  > ```Example of .txt file:
+  > 4
+  > 5
+  > ...your simbols...```
 2) Create your own table of simbols: 26 simbols (A-Z) + plus '?' and whiitespease ' ' at the end. So totaly we hawe 28 symbols.
