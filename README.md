@@ -6,7 +6,7 @@ Just type the name oh ```.txt``` file that you want to use as symbol table.
 Then type our text and enjoy! 
 
 P.S.
-Program doesn't recognize any other symbols except alphabetical (instead it tipes "?").
+Program doesn't recognize any other symbols except alphabetical (instead it types "?").
 
 # You are able to create your own symbols table. 
 1) You must to define length of your simbols in txt file (dont forget to include right-side whitespaces) 
@@ -18,4 +18,4 @@ Program doesn't recognize any other symbols except alphabetical (instead it tipe
   5
   ...your simbols...
   ```
-2) Create your own table of simbols: 26 simbols (A-Z) + plus '?' and whiitespease ' ' at the end. So totaly we hawe 28 symbols.
+2) Create your own table of simbols: 26 simbols ```A-Z``` + plus ```'?'``` and white space ```' '``` at the end. So totaly we hawe 28 symbols.
