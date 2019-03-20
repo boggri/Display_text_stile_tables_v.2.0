@@ -16,6 +16,6 @@ Program doesn't recognize any other symbols except alphabetical (instead it type
   ```
   4 
   5
-  ...your simbols...
+  ...your simbols... simbols for '?' 'white spaces'
   ```
 2) Create your own table of simbols: 26 simbols ```A-Z``` + plus ```'?'``` and white space ```' '``` at the end. So totaly we hawe 28 symbols.
