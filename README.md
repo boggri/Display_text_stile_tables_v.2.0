@@ -9,7 +9,7 @@ P.S.
 Program doesn't recognize any other symbols except alphabetical (instead it types "?").
 
 # You are able to create your own symbols table. 
-1) You must to define length of your simbols in txt file (dont forget to include right-side whitespaces) 
+1) You must to define length and hight of your simbols in txt file (dont forget to include right-side whitespaces) 
   * First number - length; then new line;
   * Second number - hight; then new line;
   > Example of .txt file 
